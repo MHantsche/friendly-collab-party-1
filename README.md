@@ -1,3 +1,10 @@
 # Friendly Collab Party
 
-Understanding what GitHib can be used for, if it is really of that much interest for many people in the EOSC-life environment
+## Description of my project
+
+Hello, shall we work together on "GitHub" on our documents? This project/repository is used for the following purposese:
+- Learn about versions
+- Learn about collaboration
+- Work with GitHub
+
+
